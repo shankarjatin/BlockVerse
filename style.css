@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #e7f3ff;
+}
+
+/* Header */
+    /* Jatin Shankar */
+
+/* Main >> Content */
+
+.main-content{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.main-content > h1{
+    font-family: 'Nexa Bold';
+    font-size: 50px;
+    line-height: 62px;
+    text-transform: capitalize;
+}
+
+.main-content > h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 20px;
+    margin-top: 15px;
+    font-weight: 300;
+    color: #0e8bce;
+}
+
+.main-content > .txt-btn{
+    margin-top: 25px;
+    margin-left: 10px;
+    padding: 9px;
+    width: 10%;
+    border: transparent;
+    background-color: #0e8bce;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-content > .txt-btn:hover{
+    background-color: #e7f3ff;
+    color: #0e8bce;
+    border: 0.7px solid #0e8bce;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
